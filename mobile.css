@@ -4,3 +4,11 @@
     color: blue;
     border: 20px dotted black;
 }
+
+.allpictures img{
+    display: block;
+    width: 100vw;
+    height: auto;
+
+   
+}
